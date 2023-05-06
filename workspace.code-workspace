@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "SRM-Project"
+		}
+	],
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"argutec.argutec-azure-repos"
+		]
+	}
+}
